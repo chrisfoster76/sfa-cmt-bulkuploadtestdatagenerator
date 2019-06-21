@@ -47,7 +47,7 @@ namespace BulkUploadTestDataGenerator
 
             _trainingCourses = new List<TrainingCourse>
             {
-                new TrainingCourse { FworkCode = "583", ProgType = "3", PwayCode = "4"},
+                //new TrainingCourse { FworkCode = "583", ProgType = "3", PwayCode = "4"},
                 new TrainingCourse { FworkCode = "548", ProgType = "3", PwayCode = "1"},
                 new TrainingCourse { FworkCode = "418", ProgType = "2", PwayCode = "1"},
                 new TrainingCourse { ProgType = "25", StandardCode = "6" },
